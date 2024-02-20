@@ -1,0 +1,21 @@
+.button {
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 10px;
+  border: 0px;
+  outline: none;
+  background-color: #3b82f6;
+  color: #ffffff;
+}
+.para {
+  font-weight: bold;
+  color: #33415577;
+}
+.register-image {
+  width: 500px;
+}
+.heading {
+  font-family: roboto;
+  font-weight: bold;
+  color: #334155;
+}
